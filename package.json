@@ -1,11 +1,10 @@
 {
   "name": "Flux-Arch",
   "version": "1.0.0",
-  "description": "project from Egghead.io tutorial by Joe Maddalone",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server"
   },
   "keywords": [],
   "author": "Mickey",
