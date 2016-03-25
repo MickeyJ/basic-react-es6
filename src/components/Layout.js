@@ -6,9 +6,9 @@ import Footer from './Footer/Footer'
 export default (props) =>{
   return(
     <div>
-      <Header  title={props.title} />
-      <Content title={props.title} />
-      <Footer  title={props.title} />
+      <Header title={props.title} />
+      <Content className="container" title={props.title} />
+      <Footer title={props.title} />
     </div>
   )
 }

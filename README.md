@@ -15,6 +15,6 @@ $ npm install -g webpack
 ######Run webpack-dev-server
 ```bash
   
-$ npm run dev
+$ npm start
   
 ```

@@ -1,10 +1,10 @@
 {
-  "name": "Flux-Arch",
+  "name": "basic-react-es6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "start": "webpack-dev-server"
   },
   "keywords": [],
   "author": "Mickey",
