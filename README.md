@@ -9,7 +9,7 @@ $ npm install
 ######If you don't have webpack installed globally
 ```bash
   
-$ npm install -g webpack
+$ npm install -g webpack webpack-dev-server
   
 ```
 ######Run webpack-dev-server
