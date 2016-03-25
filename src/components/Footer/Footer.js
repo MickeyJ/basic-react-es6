@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default (props) =>{
+// Footer
+export default props =>{
   const footStyle = {
     borderTop: '1px solid #ccc'
   };

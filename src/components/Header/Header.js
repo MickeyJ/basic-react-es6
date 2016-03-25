@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default (props) =>{
+// Header
+export default props =>{
   const headerStyle = {
     borderBottom: '1px solid #ccc'
   };

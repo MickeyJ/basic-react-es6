@@ -3,7 +3,8 @@ import Header from './Header/Header'
 import Content from './Content/Content'
 import Footer from './Footer/Footer'
 
-export default (props) =>{
+// Layout
+export default props =>{
   return(
     <div>
       <Header title={props.title} />
